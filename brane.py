@@ -1,4 +1,4 @@
-import sys, os, tty, termios
+import sys, os
 
 f = open(sys.argv[1], 'r')
 
